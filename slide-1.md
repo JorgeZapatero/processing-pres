@@ -17,6 +17,9 @@ function setup() {
 
 function draw() {
   background(220);
-  circle(100, 100, 50)
+  fill(255,0,0);
+  circle(100, 100, 50);
 }
 ```
+
+![canvas example image](https://jorgezapatero.github.io/processing-pres/example-canvas.png)
