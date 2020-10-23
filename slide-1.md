@@ -1,12 +1,12 @@
 # What is Processing?
 
 - A "sketchbook" for creating interactive, creative software quickly and easily
-- Began in 2001 at MIT
+- Started at MIT in 2001
   - Java Applets!
 
 - Core ideas:
   - Shareable
-  - Approachable to artists / designers / beginner programmers
+  - Approachable
   - Canvas
   - Draw loop
 
