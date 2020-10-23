@@ -23,6 +23,6 @@ function draw() {
 }
 ```
 
-![canvas example image](https://jorgezapatero.github.io/processing-pres/example-canvas.png)
+<img src="https://jorgezapatero.github.io/processing-pres/example-canvas.png" width="400" />
 
 [Next](https://jorgezapatero.github.io/processing-pres/slide-2)

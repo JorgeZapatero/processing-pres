@@ -8,6 +8,7 @@ Both implementations have great communities and numerous 3rd party libraries
 - ✅ OS + hardware interaction
 - ✅ Kotlin !!
 - ✅ Friendly IDE
+
 <img src="https://jorgezapatero.github.io/processing-pres/processing-ide.png" width="400" />
 
 
@@ -16,6 +17,7 @@ Both implementations have great communities and numerous 3rd party libraries
 - ✅ Mobile "for free"
 - ❌ Limited hardware interaction
 - ✅ Friendly web editor
+
 <img src="https://jorgezapatero.github.io/processing-pres/p5-editor.png" width="400" />
 
 [Next](https://jorgezapatero.github.io/processing-pres/slide-3)
