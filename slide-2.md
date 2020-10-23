@@ -8,7 +8,7 @@ Both implementations have great communities and numerous 3rd party libraries
 - ✅ OS + hardware interaction
 - ✅ Kotlin !!
 - ✅ Friendly IDE
-![processing ide example image](https://jorgezapatero.github.io/processing-pres/processing-ide.png)
+<img src="https://jorgezapatero.github.io/processing-pres/processing-ide.png" width="400" />
 
 
 ### p5.js + JS
@@ -16,6 +16,6 @@ Both implementations have great communities and numerous 3rd party libraries
 - ✅ Mobile "for free"
 - ❌ Limited hardware interaction
 - ✅ Friendly web editor
-![p5 web editor example image](https://jorgezapatero.github.io/processing-pres/p5-editor.png)
+<img src="https://jorgezapatero.github.io/processing-pres/p5-editor.png" width="400" />
 
 [Next](https://jorgezapatero.github.io/processing-pres/slide-3)
