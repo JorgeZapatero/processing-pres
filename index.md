@@ -1,4 +1,4 @@
-# Processing: A medium for self expression
+# Processing: A digital medium for creativity
 
 George Shoemaker\
 October 23, 2020\
