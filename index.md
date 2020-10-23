@@ -1,7 +1,8 @@
 # Creative software with Processing
 
 George Shoemaker\
-October 23, 2020
+October 23, 2020\
+[repo link](https://github.com/JorgeZapatero/processing-pres)
 
 ## Roadmap
 1. What is Processing?
