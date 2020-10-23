@@ -3,6 +3,7 @@
 - A "sketchbook" for creating interactive, creative software quickly and easily
 - Started at MIT in 2001
   - Java Applets!
+  - Reimagined with JavaScript
 
 - Core ideas:
   - Shareable
@@ -23,3 +24,5 @@ function draw() {
 ```
 
 ![canvas example image](https://jorgezapatero.github.io/processing-pres/example-canvas.png)
+
+[Next](https://jorgezapatero.github.io/processing-pres/slide-2)
