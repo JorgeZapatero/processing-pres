@@ -1,4 +1,4 @@
-# Creative software with Processing
+# Creative Software with Processing
 
 George Shoemaker\
 October 23, 2020\
