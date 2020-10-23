@@ -1,15 +1,16 @@
 # What is Processing?
 
 - A "sketchbook" for creating interactive, creative software quickly and easily
-- Started at MIT in 2001
-  - Java Applets!
-  - Reimagined with JavaScript
 
 - Core ideas:
   - Shareable
   - Approachable
   - Canvas
-  - Draw loop
+  - Draw loopA
+  
+- Started at MIT in 2001
+  - Java Applets!
+  - Reimagined with JavaScript
 
 ```javascript
 function setup() {
