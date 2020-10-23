@@ -16,4 +16,6 @@
     - Personal expression
 - Start with "Why is this project meaningful to me?"
 
-Awesome code gallery: https://www.openprocessing.org/
+#### Get inspired
+- Code gallery: [OpenProcessing.org](https://www.openprocessing.org)
+- [Rake some leaves !](https://owen-will-m.github.io/fall/)

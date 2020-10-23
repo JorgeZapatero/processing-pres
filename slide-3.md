@@ -1,11 +1,13 @@
-# RISD Course
+## Rhode Island School of Design Course
 
-### Bruce Donald Campbell
-- Accounting > Information Science > Computer Science > Ph.D. Systems Engineering
-- Professor at Rhode Island School of Design
+- 6 week "Continuing Education" virtual course
+
+
+#### Bruce Donald Campbell
+- Accounting > Computer Science > Art School Professor
 - [His website](http://bdcampbell.net/index.html)
 
-## [My projects so far...](https://jorgezapatero.github.io/risd-processing/)
+### [My projects so far...](https://jorgezapatero.github.io/risd-processing/)
 
 [Next](https://jorgezapatero.github.io/processing-pres/slide-4)
 

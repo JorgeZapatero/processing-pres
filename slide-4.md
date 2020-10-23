@@ -1,6 +1,6 @@
 # Why does Processing matter?
 
-The web has seen platforms for self expression come and go
+Platforms for creativity on the web have come and gone
 
 #### Geocities
 - Circa 1995 you could host a web page for free
