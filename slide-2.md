@@ -1,4 +1,4 @@
-## Java vs. JavaScript in 2020
+## Comparing implementations
 
 Both implementations have great communities and numerous 3rd party libraries
 
