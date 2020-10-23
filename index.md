@@ -1,4 +1,4 @@
-# Creative Software with Processing
+# Processing: A medium for self expression
 
 George Shoemaker\
 October 23, 2020\

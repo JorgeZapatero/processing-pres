@@ -12,7 +12,7 @@ Both implementations have great communities and numerous 3rd party libraries
 <img src="https://jorgezapatero.github.io/processing-pres/processing-ide.png" width="400" />
 
 
-### p5.js + JS
+### JS + p5.js
 - ✅ Shareable out of the box
 - ✅ Mobile "for free"
 - ❌ Limited hardware interaction
